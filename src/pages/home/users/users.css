@@ -1,0 +1,33 @@
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #f2f2f2;
+    float: left;
+}
+
+.avatar img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;     
+}
+
+.btn {
+    border: 1px solid #696969 !important;
+    margin-right:5px;
+}
+
+.action-right {
+    text-align :right;
+}
+
+.add-user{
+    float:right;
+    margin-bottom: 10px;
+}
+
+.user-table td{
+    vertical-align: middle !important;
+}
+
+ 
